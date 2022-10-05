@@ -1,0 +1,3 @@
+app:
+  discord:
+    token: ${token}
